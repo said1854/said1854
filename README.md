@@ -1,7 +1,6 @@
 ### Hi there I'm Said. A junior web developer 👋
 
-<!--
-**said1854/said1854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?said1854=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
