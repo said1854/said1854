@@ -1,6 +1,6 @@
 ### Hi there I'm Said. A junior web developer 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?said1854=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=said1854)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
