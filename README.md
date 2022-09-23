@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RandomAirport](https://github.com/said1854/random_airport)
 
-- 🌱 I’m currently learning **Dart and Flutter**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **msaliogullari@gmail.com**
 
