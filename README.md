@@ -16,7 +16,7 @@
 <a href="https://kaggle.com/said1854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="said1854" height="30" width="40" /></a>
 <a href="https://instagram.com/said1854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="said1854" height="30" width="40" /></a>
 <a href="https://medium.com/said1854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="said1854" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/said1854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="said1854" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/said1854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="said1854" height="30" width="40" /></a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
