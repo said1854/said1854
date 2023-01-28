@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RandomAirport](https://github.com/said1854/random_airport)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **msaliogullari@gmail.com**
 
