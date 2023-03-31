@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=said1854&label=Profile%20views&color=0e75b6&style=flat" alt="said1854" /> </p>
 
-- 🔭 I’m currently working on [Saidinden](https://saidinden.vercel.app/)
-
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **msaliogullari@gmail.com**
